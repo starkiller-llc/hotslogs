@@ -1,0 +1,6 @@
+[submodule "hotslogs-aux"]
+	path = hotslogs-aux
+	url = https://github.com/starkiller-llc/hotslogs-aux.git
+[submodule "hotslogs-site"]
+	path = hotslogs-site
+	url = https://github.com/starkiller-llc/hotslogs-site.git
